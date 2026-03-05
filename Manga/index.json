@@ -6,7 +6,7 @@
             "id": "weebcentral",
             "name": "WeebCentral",
             "type": "manga",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "lang": "en",
             "nsfw": false,
             "iconUrl": "https://weebcentral.com/static/images/logo.png",

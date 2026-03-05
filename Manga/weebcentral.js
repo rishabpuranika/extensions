@@ -10,7 +10,7 @@
 return {
     id: 'weebcentral',
     name: 'WeebCentral',
-    version: '1.0.0',
+    version: '1.0.2',
     baseUrl: 'https://weebcentral.com',
     lang: 'en',
 
